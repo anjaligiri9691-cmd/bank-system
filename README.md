@@ -35,21 +35,17 @@ A console-based Bank Management System built in C that allows users to manage ba
   - Modular Programming
 
 
-## File Structure
+### File Structure
 
 ├── src/
-│   ├── main.c          # Entry point
-│   ├── account.c       # Account operations (create, delete, search)
-│   └── account.h       # Function declarations
+│   └── main.c          # Main program logic
 │
 ├── data/
-│   └── accounts.dat    # Stored account data
-│
-├── docs/               # Screenshots or documentation (optional)
+│   ├── accounts.dat    # Stored account data
+│   └── temp.dat        # Temporary file
 │
 ├── README.md
 ├── .gitignore
-
 
 ## How It Works
 
