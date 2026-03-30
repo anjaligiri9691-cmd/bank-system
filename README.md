@@ -36,9 +36,11 @@ A console-based Bank Management System built in C that allows users to manage ba
 
 
 ## File Structure
-main.c        - Core program logic  / source code 
-accounts.dat  - Stores account data  
-README.md     - Project documentation
+ -main.c        - Core program logic  / source code 
+
+-accounts.dat  - Stores account data  
+
+-README.md     - Project documentation
 
 ## How It Works
 
