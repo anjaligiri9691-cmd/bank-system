@@ -1,5 +1,11 @@
 # Bank Management System
 
+![C](https://img.shields.io/badge/Language-C-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-CLI-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+
 A console-based Bank Management System built in C that allows users to manage bank accounts efficiently using file handling.
 
 ## Features
